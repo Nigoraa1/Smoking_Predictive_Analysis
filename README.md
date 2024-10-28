@@ -39,11 +39,10 @@ cd RandomForestModel_to_predict
 pip install -r requirements.txt
 
 # How to Use
-Data Preparation: Place train.csv and test.csv in the designated directory. Modify paths in the code as needed.
-
-# Model Training: Run train_model.py to train the Random Forest model on the training dataset.
+### Data Preparation: Place train.csv and test.csv in the designated directory. Modify paths in the code as needed.
+### Model Training: Run train_model.py to train the Random Forest model on the training dataset.
 python train_model.py
-Model Evaluation: Use the test dataset to assess model performance.
+### Model Evaluation: Use the test dataset to assess model performance.
 
 # Sample Command
 Run the full workflow with:
