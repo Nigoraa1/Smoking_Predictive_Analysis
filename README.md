@@ -9,7 +9,9 @@ Feature engineering
 Model training and hyperparameter tuning with Optuna
 Performance evaluation
 Feature importance analysis
-![Alt text](![Uploading image.png…]())
+
+![image](https://github.com/user-attachments/assets/896f5cbd-4f94-4d02-8ca7-77a7a7ed90a8)
+
 
 
 # Requirements
