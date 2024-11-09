@@ -9,6 +9,8 @@ Feature engineering
 Model training and hyperparameter tuning with Optuna
 Performance evaluation
 Feature importance analysis
+![Uploading image.png…]()
+
 
 # Requirements
 This project uses Python and the following libraries:
